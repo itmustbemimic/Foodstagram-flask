@@ -1,0 +1,16 @@
+item { 
+	name:'cheeseburger_475cal'
+	id:1
+}
+item { 
+	name:'fries_350cal'
+	id:2
+}
+item { 
+	name:'blacknoodle_864cal'
+	id:3
+}
+item { 
+	name:'chicken_1800cal'
+	id:4
+}
